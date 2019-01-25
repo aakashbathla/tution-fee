@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url('./assets/plain-light-color-for-guest-background-e28093-aleksandar-savkovi-light-color-background-images-for-website-1024x640.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Charm', cursive;
+
+
+}
+.textCenter{
+    text-align: center;
+}

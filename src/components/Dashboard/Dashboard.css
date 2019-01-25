@@ -1,0 +1,18 @@
+.DashboardContent{
+    margin: 0px auto;
+    font-family: 'Sarabun', sans-serif;
+    text-align: center
+}
+.Data{
+    font-size: 50px;
+    font-weight: bolder;
+    color: maroon
+}
+.DataHeading{
+    color: #48a6cd;
+    margin-left: 10px;
+}
+.DataIcon{
+    color: #1abb9c;
+    font-size: 30px;
+}
